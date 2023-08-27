@@ -1,6 +1,6 @@
 Hello and welcome to my profile. I'm @pyro1136. 
 
-I am an educator who primarily works with adults looking to improve their skills. My current project is developing an online platform as an educational aids for students to use. 
+I am an educator who primarily works with adults looking to improve their skills. My current project is developing an online platform as an educational aid for students to use. 
 
 You can check the ongoing project here:- https://slotheducation.com/
 
